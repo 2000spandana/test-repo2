@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+class hello()	#dev2 modify
+{
+	public static void main()	#dev2 modify
+	{
+		system.out.println('hello dev1 modify');
+	}
+} #dev2 modify
+=======
+class hello()	#dev1 modify
+{
+	public static void main()	#dev1 modify
+	{
+		system.out.println('hello dev1 modify'); #dev1 modify
+	}
+}
+>>>>>>> d1a32146af5ce3205a5a13a8f3de55bbaa110809
